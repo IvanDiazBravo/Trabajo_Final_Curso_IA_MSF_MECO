@@ -1,4 +1,4 @@
-# Trabajo_Final_Curso_IA_MSF_MECO
+# Trabajo_Curso_IA_BD
 Area de trabajo para el almacenamiento de trabajo fin de curso IA MSF MECO
 
 Introducción y Descripción del proyecto
